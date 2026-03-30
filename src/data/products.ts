@@ -54,7 +54,7 @@ export const products: Product[] = [
   },
   {
     id: '6',
-    name: 'Mirror Work Kurta Set',
+    name: 'Mirror Work Kurti Set',
     price: 6800,
     category: 'Kurta',
      image: '/images/6.jpeg',
